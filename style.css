@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+main {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 1px 1px 10px rgb(229, 195, 130);
+    margin: 30px;
+    height: 20%;
+}
